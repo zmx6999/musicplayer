@@ -11,6 +11,6 @@ iOS音乐播放器源码
 ![Image](https://github.com/zmx6999/musicplayer/blob/master/DescriptionImage/IMG_0952.jpg)
 ![Image](https://github.com/zmx6999/musicplayer/blob/master/DescriptionImage/IMG_0953.jpg)
 
-]锁屏播放的界面，歌曲可以后台播放
+锁屏播放的界面，歌曲可以后台播放
 
 ![Image](https://github.com/zmx6999/musicplayer/blob/master/DescriptionImage/IMG_0954.jpg)
